@@ -1,0 +1,78 @@
+header {
+
+    background-color: #0a0804;
+
+    text-align: center
+}
+
+body{ background-color: #0a0804;
+    color: white;
+    text-align: center;
+    font-family:gothic;
+
+}
+
+
+
+    
+
+
+
+.logo {
+
+    font-size: 48px;
+    color: darkgoldenrod;
+  }
+
+  ol{ text-decoration:none;
+    list-style: none;
+    
+    list-style-type: none;
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container img {
+    margin: 0 10px;
+    max-width: 30%; /* Adjust this to fit your needs */
+    height: auto;
+}
+.deal {display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-color:darkgoldenrod;
+    color:black;
+    
+
+
+}
+
+footer {
+    background-color:#fff ;
+    text-align: center;
+    padding: 10px;
+    color:#0a0804;
+ 
+}
+
+  /*img {background-color: hsl(53, 67%, 95%);
+    text-align: center;
+    padding: 10px;
+    text-decoration:none;
+    list-style: none;
+    margin: 0 10px
+
+
+  } 
+    
+  img {
+
+    width: 25%;
+    padding: 10px;
+  }
+
+  
